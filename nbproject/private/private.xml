@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ENG-DEV23/Documents/NetBeansProjects/JAVA_DAO_MVC/src/edu/rezkiramadhan/latihanmvcjdbc/view/PelangganView.java</file>
+            <file>file:/C:/Users/ENG-DEV23/Documents/NetBeansProjects/JAVA_DAO_MVC/src/edu/rezkiramadhan/latihanmvcjdbc/database/KingsBarbershopDatabase.java</file>
+            <file>file:/C:/Users/ENG-DEV23/Documents/NetBeansProjects/JAVA_DAO_MVC/src/edu/rezkiramadhan/latihanmvcjdbc/implement/PelangganDaoImplement.java</file>
+            <file>file:/C:/Users/ENG-DEV23/Documents/NetBeansProjects/JAVA_DAO_MVC/src/edu/rezkiramadhan/latihanmvcjdbc/service/PelangganDao.java</file>
+            <file>file:/C:/Users/ENG-DEV23/Documents/NetBeansProjects/JAVA_DAO_MVC/src/edu/rezkiramadhan/latihanmvcjdbc/event/PelangganListener.java</file>
+            <file>file:/C:/Users/ENG-DEV23/Documents/NetBeansProjects/JAVA_DAO_MVC/src/edu/rezkiramadhan/latihanmvcjdbc/controller/PelangganController.java</file>
+            <file>file:/C:/Users/ENG-DEV23/Documents/NetBeansProjects/JAVA_DAO_MVC/src/edu/rezkiramadhan/latihanmvcjdbc/view/MainViewPelanggan.java</file>
+            <file>file:/C:/Users/ENG-DEV23/Documents/NetBeansProjects/JAVA_DAO_MVC/src/edu/rezkiramadhan/latihanmvcjdbc/main/JAVA_DAO_MVC.java</file>
+            <file>file:/C:/Users/ENG-DEV23/Documents/NetBeansProjects/JAVA_DAO_MVC/src/edu/rezkiramadhan/latihanmvcjdbc/model/TabelPelangganModel.java</file>
+            <file>file:/C:/Users/ENG-DEV23/Documents/NetBeansProjects/JAVA_DAO_MVC/src/edu/rezkiramadhan/latihanmvcjdbc/entity/Pelanggan.java</file>
+            <file>file:/C:/Users/ENG-DEV23/Documents/NetBeansProjects/JAVA_DAO_MVC/src/edu/rezkiramadhan/latihanmvcjdbc/model/PelangganModel.java</file>
+        </group>
+    </open-files>
+</project-private>
